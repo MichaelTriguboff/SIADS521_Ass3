@@ -1,0 +1,339 @@
+<SEC-DOCUMENT>0001418812-25-000004.txt : 20250214
+<SEC-HEADER>0001418812-25-000004.hdr.sgml : 20250214
+<ACCEPTANCE-DATETIME>20250214162144
+ACCESSION NUMBER:		0001418812-25-000004
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20241231
+FILED AS OF DATE:		20250214
+DATE AS OF CHANGE:		20250214
+EFFECTIVENESS DATE:		20250214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ValueAct Holdings, L.P.
+		CENTRAL INDEX KEY:			0001418814
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				251905427
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-13172
+		FILM NUMBER:		25629301
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE LETTERMAN DRIVE
+		STREET 2:		BUILDING D, 4TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94129
+		BUSINESS PHONE:		415-362-3700
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LETTERMAN DRIVE
+		STREET 2:		BUILDING D, 4TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94129
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001418814</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2024</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2024</reportCalendarOrQuarter>
+      <filingManager>
+        <name>ValueAct Holdings, L.P.</name>
+        <address>
+          <com:street1>ONE LETTERMAN DRIVE</com:street1>
+          <com:street2>BUILDING D, 4TH FLOOR</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94129</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F COMBINATION REPORT</reportType>
+      <form13FFileNumber>028-13172</form13FFileNumber>
+      <otherManagersInfo>
+        <otherManager>
+          <cik>0001351069</cik>
+          <name>ValueAct Capital Management, L.P.</name>
+        </otherManager>
+      </otherManagersInfo>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Jason B. Breeding</name>
+      <title>Authorized Signatory</title>
+      <phone>415-362-3700</phone>
+      <signature>/s/ Jason B. Breeding</signature>
+      <city>San Francisco</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>02-14-2025</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>1</otherIncludedManagersCount>
+      <tableEntryTotal>12</tableEntryTotal>
+      <tableValueTotal>4389194544</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001351069</cik>
+            <name>ValueAct Capital Management, L.P.</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>vac13f021425.xml
+<DESCRIPTION>13F-HR
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>AMAZON COM INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>023135106</ns1:cusip>
+		<ns1:value>117790491</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>536900</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>536900</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>DISNEY WALT CO</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>254687106</ns1:cusip>
+		<ns1:value>731127552</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>6566031</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>6566031</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>EXPEDIA GROUP INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+		<ns1:cusip>30212P303</ns1:cusip>
+		<ns1:value>375903260</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>2017406</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>2017406</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>INSIGHT ENTERPRISES INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>45765U103</ns1:cusip>
+		<ns1:value>617790502</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>4061739</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>4061739</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LIBERTY MEDIA CORP DEL</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM LBTY LIV S A</ns1:titleOfClass>
+		<ns1:cusip>531229748</ns1:cusip>
+		<ns1:value>84427899</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1268448</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>1268448</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LIBERTY MEDIA CORP DEL</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM LBTY LIV S C</ns1:titleOfClass>
+		<ns1:cusip>531229722</ns1:cusip>
+		<ns1:value>215667711</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>3168788</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>3168788</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>LIVE NATION ENTERTAINMENT INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>538034109</ns1:cusip>
+		<ns1:value>137459847</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>1061466</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>1061466</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>META PLATFORMS INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>CL A</ns1:titleOfClass>
+		<ns1:cusip>30303M102</ns1:cusip>
+		<ns1:value>123835365</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>211500</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>211500</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>ROBLOX CORP</ns1:nameOfIssuer>
+		<ns1:titleOfClass>CL A</ns1:titleOfClass>
+		<ns1:cusip>771049103</ns1:cusip>
+		<ns1:value>586464389</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>10135921</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>10135921</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>SALESFORCE INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM</ns1:titleOfClass>
+		<ns1:cusip>79466L302</ns1:cusip>
+		<ns1:value>969058514</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>2898509</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>2898509</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>TOAST INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>CL A</ns1:titleOfClass>
+		<ns1:cusip>888787108</ns1:cusip>
+		<ns1:value>311596470</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>8548600</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>8548600</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+	<ns1:infoTable>
+		<ns1:nameOfIssuer>VISA INC</ns1:nameOfIssuer>
+		<ns1:titleOfClass>COM CL A</ns1:titleOfClass>
+		<ns1:cusip>92826C839</ns1:cusip>
+		<ns1:value>118072544</ns1:value>
+		<ns1:shrsOrPrnAmt>
+			<ns1:sshPrnamt>373600</ns1:sshPrnamt>
+			<ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+		</ns1:shrsOrPrnAmt>
+		<ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+		<ns1:otherManager>1</ns1:otherManager>
+		<ns1:votingAuthority>
+			<ns1:Sole>373600</ns1:Sole>
+			<ns1:Shared>0</ns1:Shared>
+			<ns1:None>0</ns1:None>
+		</ns1:votingAuthority>
+	</ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

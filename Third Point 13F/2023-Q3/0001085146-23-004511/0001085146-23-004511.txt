@@ -1,0 +1,797 @@
+<SEC-DOCUMENT>0001085146-23-004511.txt : 20231114
+<SEC-HEADER>0001085146-23-004511.hdr.sgml : 20231114
+<ACCEPTANCE-DATETIME>20231114170135
+ACCESSION NUMBER:		0001085146-23-004511
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20230930
+FILED AS OF DATE:		20231114
+DATE AS OF CHANGE:		20231114
+EFFECTIVENESS DATE:		20231114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Third Point LLC
+		CENTRAL INDEX KEY:			0001040273
+		IRS NUMBER:				133922602
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06970
+		FILM NUMBER:		231407741
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		2127153880
+
+	MAIL ADDRESS:	
+		STREET 1:		55 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THIRD POINT MANAGEMENT CO LLC
+		DATE OF NAME CHANGE:	19970602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:ns1="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001040273</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2023</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2023</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Third Point LLC</name>
+        <address>
+          <ns1:street1>55 HUDSON YARDS</ns1:street1>
+          <ns1:city>NEW YORK</ns1:city>
+          <ns1:stateOrCountry>NY</ns1:stateOrCountry>
+          <ns1:zipCode>10001</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-06970</form13FFileNumber>
+      <crdNumber>000137927</crdNumber>
+      <secFileNumber>801-65088</secFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Daniel S. Loeb</name>
+      <title>CEO</title>
+      <phone>212-715-3880</phone>
+      <signature>/s/  Daniel S. Loeb</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>11-14-2023</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>42</tableEntryTotal>
+      <tableValueTotal>6593273438</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="utf-8"?>
+<ns1:informationTable xmlns:ns1="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>ALPHABET INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>CAP STK CL A</ns1:titleOfClass>
+    <ns1:cusip>02079K305</ns1:cusip>
+    <ns1:value>117774000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>900000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>900000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>AMAZON COM INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>023135106</ns1:cusip>
+    <ns1:value>594921600</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>4680000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>4680000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>AMERICAN INTL GROUP INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+    <ns1:cusip>026874784</ns1:cusip>
+    <ns1:value>178770000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>2950000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>2950000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>APOLLO GLOBAL MGMT INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>SER A MAND CNV</ns1:titleOfClass>
+    <ns1:cusip>03769M304</ns1:cusip>
+    <ns1:value>49590000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>900000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>900000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>AURORA INNOVATION INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 11/03/202</ns1:titleOfClass>
+    <ns1:cusip>051774115</ns1:cusip>
+    <ns1:value>587200</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1835000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1835000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>AURORA INNOVATION INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>CLASS A COM</ns1:titleOfClass>
+    <ns1:cusip>051774107</ns1:cusip>
+    <ns1:value>2426288</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1032463</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1032463</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>BATH &amp; BODY WORKS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>070830104</ns1:cusip>
+    <ns1:value>468130000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>13850000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>13850000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>BLUESCAPE OPPORTUNITIES ACQU</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 10/28/202</ns1:titleOfClass>
+    <ns1:cusip>G1195N113</ns1:cusip>
+    <ns1:value>8700</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1000000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1000000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>DANAHER CORPORATION</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>235851102</ns1:cusip>
+    <ns1:value>607845000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>2450000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>2450000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>DISRUPTIVE ACQUISITION CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 03/06/202</ns1:titleOfClass>
+    <ns1:cusip>G2770Y128</ns1:cusip>
+    <ns1:value>15733</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>333333</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>333333</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>DUPONT DE NEMOURS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>26614N102</ns1:cusip>
+    <ns1:value>309548500</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>4150000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>4150000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>EG ACQUISITION CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 05/28/202</ns1:titleOfClass>
+    <ns1:cusip>26846A118</ns1:cusip>
+    <ns1:value>62769</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>367499</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>367499</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>EG ACQUISITION CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM CL A</ns1:titleOfClass>
+    <ns1:cusip>26846A100</ns1:cusip>
+    <ns1:value>10148320</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>952000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>952000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>FERGUSON PLC NEW</ns1:nameOfIssuer>
+    <ns1:titleOfClass>SHS</ns1:titleOfClass>
+    <ns1:cusip>G3421J106</ns1:cusip>
+    <ns1:value>208727700</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1275000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1275000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>FIDELITY NATL INFORMATION SV</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>31620M106</ns1:cusip>
+    <ns1:value>16581000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>300000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>300000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>GLOBAL BLUE GROUP HOLDING AG</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 08/28/202</ns1:titleOfClass>
+    <ns1:cusip>H33700115</ns1:cusip>
+    <ns1:value>506667</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1333333</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1333333</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>GLOBAL BLUE GROUP HOLDING AG</ns1:nameOfIssuer>
+    <ns1:titleOfClass>ORD SHS</ns1:titleOfClass>
+    <ns1:cusip>H33700107</ns1:cusip>
+    <ns1:value>50996614</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>8387601</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>8387601</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>HERTZ GLOBAL HLDGS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 06/30/205</ns1:titleOfClass>
+    <ns1:cusip>42806J148</ns1:cusip>
+    <ns1:value>24296400</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>3970000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>3970000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>HERTZ GLOBAL HLDGS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+    <ns1:cusip>42806J700</ns1:cusip>
+    <ns1:value>91811557</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>7494821</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>7494821</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>INTERCONTINENTAL EXCHANGE IN</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>45866F104</ns1:cusip>
+    <ns1:value>262940539</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>2389934</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>2389934</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>INTERNATIONAL FLAVORS&amp;FRAGRA</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>459506101</ns1:cusip>
+    <ns1:value>168720750</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>2475000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>2475000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>JACOBS SOLUTIONS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>46982L108</ns1:cusip>
+    <ns1:value>245700000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1800000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1800000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>JAWS MUSTANG ACQUISITION COR</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 01/30/202</ns1:titleOfClass>
+    <ns1:cusip>G50737124</ns1:cusip>
+    <ns1:value>40000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1000000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1000000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>META PLATFORMS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>CL A</ns1:titleOfClass>
+    <ns1:cusip>30303M102</ns1:cusip>
+    <ns1:value>330231000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1100000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1100000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>MICROSOFT CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>594918104</ns1:cusip>
+    <ns1:value>702543750</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>2225000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>2225000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>NET POWER INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 06/08/202</ns1:titleOfClass>
+    <ns1:cusip>64107A113</ns1:cusip>
+    <ns1:value>2170000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>500000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>500000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>OPTION CARE HEALTH INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+    <ns1:cusip>68404L201</ns1:cusip>
+    <ns1:value>176328819</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>5450659</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>5450659</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>PG&amp;E CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>69331C108</ns1:cusip>
+    <ns1:value>917151800</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>56860000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>56860000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>PROPETRO HLDG CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>74347M108</ns1:cusip>
+    <ns1:value>159450</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>15000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>15000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>REGAL REXNORD CORPORATION</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>758750103</ns1:cusip>
+    <ns1:value>92872000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>650000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>650000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>SELECT SECTOR SPDR TR</ns1:nameOfIssuer>
+    <ns1:titleOfClass>SBI INT-UTILS</ns1:titleOfClass>
+    <ns1:cusip>81369Y886</ns1:cusip>
+    <ns1:value>29465000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>500000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:putCall>Call</ns1:putCall>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>500000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>SOCIAL LEVERAGE ACQUISN CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 02/17/202</ns1:titleOfClass>
+    <ns1:cusip>83363K110</ns1:cusip>
+    <ns1:value>11275</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>250000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>250000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>TAIWAN SEMICONDUCTOR MFG LTD</ns1:nameOfIssuer>
+    <ns1:titleOfClass>SPONSORED ADS</ns1:titleOfClass>
+    <ns1:cusip>874039100</ns1:cusip>
+    <ns1:value>154247500</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1775000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1775000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>TELEPHONE &amp; DATA SYS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+    <ns1:cusip>879433829</ns1:cusip>
+    <ns1:value>39125394</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>2136832</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>2136832</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>TELEPHONE &amp; DATA SYS INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM NEW</ns1:titleOfClass>
+    <ns1:cusip>879433829</ns1:cusip>
+    <ns1:value>18310000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1000000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:putCall>Call</ns1:putCall>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1000000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>TMC THE METALS COMPANY INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>*W EXP 09/09/202</ns1:titleOfClass>
+    <ns1:cusip>87261Y114</ns1:cusip>
+    <ns1:value>110100</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1000000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1000000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>T-MOBILE US INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>872590104</ns1:cusip>
+    <ns1:value>140050000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>1000000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>1000000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>UBER TECHNOLOGIES INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>90353T100</ns1:cusip>
+    <ns1:value>193158000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>4200000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>4200000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>UNITED STATES CELLULAR CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>911684108</ns1:cusip>
+    <ns1:value>23433432</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>545344</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>545344</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>UNITED STATES STL CORP NEW</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>912909108</ns1:cusip>
+    <ns1:value>154280000</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>4750000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>4750000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>VISTRA CORP</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>92840M102</ns1:cusip>
+    <ns1:value>119589081</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>3604252</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>3604252</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+  <ns1:infoTable>
+    <ns1:nameOfIssuer>WESCO INTL INC</ns1:nameOfIssuer>
+    <ns1:titleOfClass>COM</ns1:titleOfClass>
+    <ns1:cusip>95082P105</ns1:cusip>
+    <ns1:value>89887500</ns1:value>
+    <ns1:shrsOrPrnAmt>
+      <ns1:sshPrnamt>625000</ns1:sshPrnamt>
+      <ns1:sshPrnamtType>SH</ns1:sshPrnamtType>
+    </ns1:shrsOrPrnAmt>
+    <ns1:investmentDiscretion>SOLE</ns1:investmentDiscretion>
+    <ns1:votingAuthority>
+      <ns1:Sole>625000</ns1:Sole>
+      <ns1:Shared>0</ns1:Shared>
+      <ns1:None>0</ns1:None>
+    </ns1:votingAuthority>
+  </ns1:infoTable>
+</ns1:informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
